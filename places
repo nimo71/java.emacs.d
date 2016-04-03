@@ -1,5 +1,9 @@
 ;;; -*- coding: utf-8 -*-
 (("/home/eclim/.emacs.d/elpa/dash-20160306.1222/dash-autoloads.el" . 173)
+ ("/home/eclim/.emacs.d/elpa/emacs-eclim-20160331.1645/emacs-eclim-autoloads.el" . 2545)
  ("/home/eclim/.emacs.d/elpa/epl-20150517.433/epl-autoloads.el" . 171)
  ("/home/eclim/.emacs.d/elpa/pkg-info-20150517.443/pkg-info-autoloads.el" . 3976)
- ("/home/eclim/.emacs.d/elpa/projectile-20160331.2219/projectile-autoloads.el" . 15905))
+ ("/home/eclim/.emacs.d/elpa/popup-20151222.1339/popup-autoloads.el" . 176)
+ ("/home/eclim/.emacs.d/elpa/projectile-20160331.2219/projectile-autoloads.el" . 15905)
+ ("/home/eclim/.emacs.d/elpa/s-20160313.2240/s-autoloads.el" . 165)
+ ("/home/eclim/.emacs.d/init.el" . 223))
